@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaiTapLon-Android</string>
+    <string-array name="tinh_trang">
+        <item>Chua thuc hien</item>
+        <item>Dang thuc hien</item>
+        <item>Hoan thanh</item>
+    </string-array>
+</resources>
